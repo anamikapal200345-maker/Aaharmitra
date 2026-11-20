@@ -1,0 +1,6 @@
+{
+  "name": "AaharMitra – Ayurvedic Aahar Assessment",
+  "description": "Understand your eating habits, digestive fire (Agni), and food quantity (Aahar Matra) through traditional Ayurvedic wisdom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
