@@ -989,7 +989,7 @@ export function evaluateAssessment(answers: Record<string, 'A' | 'B' | 'C' | 'D'
     overallStatus,
     dimensions,
     personalizedInsights: uniqueInsights,
-    dailyRoutineSuggestions: profileCore.dailyRoutineSuggestions,yt
+    dailyRoutineSuggestions: profileCore.dailyRoutineSuggestions,yt,
     herbAndSpiceSupport: profileCore.herbAndSpiceSupport,
   };
           
