@@ -992,4 +992,4 @@ export function evaluateAssessment(answers: Record<string, 'A' | 'B' | 'C' | 'D'
     dailyRoutineSuggestions: profileCore.dailyRoutineSuggestions,yt
     herbAndSpiceSupport: profileCore.herbAndSpiceSupport,
   };
-          }
+          
