@@ -881,7 +881,8 @@ export function evaluateAssessment(answers: Record<string, 'A' | 'B' | 'C' | 'D'
   } else if (tikshna >= 3) {
     profileCore = {
       id: 'tikshna_rushed',
-      title: 'Intense Digestive Fire & Fast Pacing',r
+      title: 'Intense Digestive Fire & Fast Pacing',
+
       sanskritName: 'Tikshnagni · Rushed Vidhi Tendency',
       subtitle: 'Sharp hunger, fast eating speed, or fiery food choices may be straining digestive calm.',
       summary:
